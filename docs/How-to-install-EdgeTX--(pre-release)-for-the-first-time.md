@@ -6,6 +6,7 @@ As of 18.June.2021
 
 ### Warning: the EdgeTX firmware is still in a pre-release state and should only be used for testing purposes. It may contain issues - Use at your own risk!
 _**Note 1: Before you update to EdgeTX, it is highly recommended that you backup your current firmware and SD card contents in case you need to roll back to your previous version for some reason. Additionally, you will need your MODEL and RADIO folders if you want to convert your existing models created in OpenTX to work with EdgeTX.**_
+   
 _**Note 2: If you choose to convert your existing models, beware that all the widgets and screens configuration will be rested. All mixers, input, outputs, etc. should be converted. Please fill a bug report if something is missing**_
 
 1. Download and extract the EdgeTX SD card content for your radio type to your computer. The SD card contents can be found here: https://github.com/EdgeTX/edgetx-sdcard/releases (download this file: **edgetx-sdcard-2.4.0-rc1.zip** and unzip to get the individual radio Zip Files)
